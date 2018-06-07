@@ -6,3 +6,6 @@ assignment 3 (http://localhost:8890/notebooks/assignment3.ipynb)
 assignment 4 (https://russet.uvt.nl/user/u185685/notebooks/python_material/assignment4.ipynb#)
 
 Final R exam (http://localhost:8888/notebooks/Exam_student.ipynb)
+
+Final Python exam (http://localhost:8888/notebooks/exam_june_7_2018.ipynb#)
+
